@@ -4,9 +4,9 @@
     <mapping directory="$PROJECT_DIR$/DevelhopeWork" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DevelhopeWork/DevelHopeExercise" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GroceryListApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaADV/SetExercise" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MarketAPP" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Pokedex.Hope" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RewieExe" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SetExercise" vcs="Git" />
   </component>
 </project>
